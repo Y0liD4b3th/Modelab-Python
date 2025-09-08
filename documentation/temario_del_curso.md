@@ -132,7 +132,8 @@ Contenido de los manuales de Git y GitHub:
 - [Script_mdf_permanocva](../scripts/18_mdf_permanova.ipynb)
 
 # Semana 4
-## K-means (Redes Neuronales)
+## K-means 
+- [K-mens][https://github.com/emolmin/Algoritmos-ML/blob/main/basicos/Intro_k_Medias.ipynb]
 
 # Semana 5
 ## Proyecto final  
