@@ -107,6 +107,10 @@ Contenido de los manuales de Git y GitHub:
    - [Script_nonparametric_kruskal_wallis](../scripts/10_nonparametric_kruskal_wallis.ipynb)
 
 ## Pruebas paramétricas
+- [T_de_Student](link aquí)
+   - [Scrip_colab_T_de_Student](../scripts/T_de_Student_Colab.ipynb)
+   - [Scrip_python_T_de_Student](link aqui)
+   
 - [Calcular_ANOVA_de_dos_vías_17](https://youtu.be/pCBKvoPNRzs)
    - [Script_inferential_statistics_two_anova](../scripts/11_inferential_statistics_two_anova.ipynb)
  
